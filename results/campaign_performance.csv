@@ -1,0 +1,8 @@
+platform,campaign_key,spend,leads,mqls,sqls,won_deals,won_revenue,cost_per_lead,cost_per_mql,cost_per_sql,cac,roas
+google_ads,de_search_generic_crm,141586.0,239,102,48,4,37000.0,592.0,1388.0,2950.0,35397.0,0.26
+google_ads,dach_search_competitor,76032.0,211,80,40,3,69100.0,360.0,950.0,1901.0,25344.0,0.91
+google_ads,de_search_brand,48828.0,234,97,33,6,124500.0,209.0,503.0,1480.0,8138.0,2.55
+linkedin_ads,li_dach_abm_enterprise,171210.0,193,87,33,3,9200.0,887.0,1968.0,5188.0,57070.0,0.05
+linkedin_ads,li_dach_leadgen_ebook,113151.0,190,91,40,3,27200.0,596.0,1243.0,2829.0,37717.0,0.24
+linkedin_ads,li_dach_retargeting,43200.0,177,89,37,2,8500.0,244.0,485.0,1168.0,21600.0,0.2
+meta_ads,fb_de_webinar_q,13756.0,178,40,20,3,49200.0,77.0,344.0,688.0,4585.0,3.58

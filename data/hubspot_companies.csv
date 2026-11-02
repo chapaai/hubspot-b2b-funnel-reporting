@@ -1,0 +1,337 @@
+hs_object_id,name,domain,industry,country,numberofemployees,createdate
+100000,LichtSoftware GmbH & Co. KG,lichtsoftware.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,25,2026-04-15 18:59:30
+100001,IsarRetail GmbH,isarretail.de,HOSPITAL_HEALTH_CARE,Germany,900,2025-09-24 09:34:51
+100002,RheinLogistik AG,rheinlogistik.de,LOGISTICS_AND_SUPPLY_CHAIN,Austria,400,2026-06-06 04:03:16
+100003,HafenLogistik AG,hafenlogistik.ch,RETAIL,Austria,25,2026-02-28 07:15:26
+100004,SternIndustrie GmbH & Co. KG,sternindustrie.at,RENEWABLES_ENVIRONMENT,Germany,60,2025-02-27 03:58:32
+100005,NeckarRobotics SE,neckarrobotics.de,MACHINERY,Germany,400,2026-08-16 04:51:59
+100006,IsarIndustrie GmbH,isarindustrie.com,COMPUTER_SOFTWARE,Germany,2500,2026-04-08 00:16:59
+100007,SpreeSolutions GmbH & Co. KG,spreesolutions.com,RENEWABLES_ENVIRONMENT,Germany,2500,2026-04-23 03:23:05
+100008,WeserMedia GmbH,wesermedia.ch,FINANCIAL_SERVICES,Germany,400,2025-03-19 18:21:33
+100009,FeldData GmbH & Co. KG,felddata.ch,HOSPITAL_HEALTH_CARE,Germany,2500,2025-10-01 09:13:20
+100010,FelsSoftware AG,felssoftware.de,RENEWABLES_ENVIRONMENT,Germany,400,2025-08-14 01:47:08
+100011,AlpenCloud GmbH,alpencloud.de,FINANCIAL_SERVICES,Germany,60,2026-07-17 13:06:44
+100012,BlauHealth AG,blauhealth.com,MACHINERY,Germany,2500,2026-01-26 19:49:37
+100013,MainHealth GmbH,mainhealth.com,HOSPITAL_HEALTH_CARE,Germany,150,2026-05-15 09:59:28
+100014,FeldRetail AG,feldretail.de,FINANCIAL_SERVICES,Germany,400,2025-09-27 03:39:28
+100015,OstHealth AG,osthealth.ch,RETAIL,Germany,400,2025-05-18 22:24:49
+100016,DonauRobotics AG,donaurobotics.de,RENEWABLES_ENVIRONMENT,Germany,25,2025-12-03 15:11:28
+100017,MoselSolutions GmbH & Co. KG,moselsolutions.at,COMPUTER_SOFTWARE,Germany,8000,2025-02-08 17:41:23
+100018,HarzEnergie AG,harzenergie.com,RETAIL,Austria,8000,2026-05-18 08:55:51
+100019,TalHealth AG,talhealth.at,MACHINERY,Germany,60,2026-01-19 10:05:13
+100020,SaarRetail GmbH & Co. KG,saarretail.ch,RETAIL,Switzerland,60,2026-04-06 03:49:19
+100021,SternEnergie GmbH & Co. KG,sternenergie.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,900,2025-08-04 04:44:03
+100022,WaldMedia GmbH,waldmedia.de,RENEWABLES_ENVIRONMENT,Germany,25,2026-08-13 05:07:43
+100023,IsarHealth SE,isarhealth.de,HOSPITAL_HEALTH_CARE,Germany,400,2026-06-27 02:59:18
+100024,TalTechnik SE,taltechnik.ch,HOSPITAL_HEALTH_CARE,Germany,900,2026-04-18 11:29:26
+100025,FeldCloud GmbH,feldcloud.de,RETAIL,Austria,2500,2025-04-29 03:29:48
+100026,NeckarData GmbH,neckardata.com,MACHINERY,Germany,150,2025-10-11 07:11:29
+100027,ElbMedia GmbH & Co. KG,elbmedia.de,HOSPITAL_HEALTH_CARE,Germany,400,2025-01-27 14:07:59
+100028,WaldSoftware AG,waldsoftware.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,400,2025-04-04 15:41:21
+100029,NeckarSystems GmbH,neckarsystems.ch,HOSPITAL_HEALTH_CARE,Germany,2500,2026-02-19 14:39:25
+100030,SuedLogistik GmbH & Co. KG,suedlogistik.de,RENEWABLES_ENVIRONMENT,Germany,8000,2026-03-29 01:41:42
+100031,SaarLogistik GmbH,saarlogistik.de,COMPUTER_SOFTWARE,Austria,150,2026-08-11 06:40:54
+100032,DonauSoftware AG,donausoftware.ch,LOGISTICS_AND_SUPPLY_CHAIN,Austria,150,2025-07-17 18:37:25
+100033,FeldSystems SE,feldsystems.com,LOGISTICS_AND_SUPPLY_CHAIN,Austria,8000,2025-08-13 20:51:25
+100034,NeckarRetail GmbH & Co. KG,neckarretail.de,FINANCIAL_SERVICES,Germany,25,2025-10-13 00:29:20
+100035,BlauFinance GmbH,blaufinance.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2025-04-26 00:13:07
+100036,AlpenSolutions AG,alpensolutions.de,HOSPITAL_HEALTH_CARE,Germany,400,2025-03-20 20:41:47
+100037,NordSoftware AG,nordsoftware.de,COMPUTER_SOFTWARE,Germany,900,2025-10-16 18:04:09
+100038,InnSolutions AG,innsolutions.de,MACHINERY,Austria,150,2025-05-18 17:36:55
+100039,MainFinance SE,mainfinance.de,LOGISTICS_AND_SUPPLY_CHAIN,Austria,400,2026-02-11 13:51:00
+100040,MoselTechnik GmbH,moseltechnik.de,COMPUTER_SOFTWARE,Germany,8000,2025-09-23 08:25:44
+100041,BergTechnik SE,bergtechnik.at,RENEWABLES_ENVIRONMENT,Germany,60,2026-05-21 10:27:21
+100042,KraftHealth GmbH,krafthealth.de,FINANCIAL_SERVICES,Germany,900,2026-03-02 01:27:43
+100043,MoselCloud AG,moselcloud.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,25,2025-07-09 14:33:26
+100044,FeldMedia SE,feldmedia.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2026-05-21 04:21:38
+100045,BlauIndustrie SE,blauindustrie.de,RENEWABLES_ENVIRONMENT,Austria,400,2026-05-04 11:48:25
+100046,SpreeLogistik GmbH,spreelogistik.ch,COMPUTER_SOFTWARE,Germany,2500,2025-08-24 04:47:06
+100047,ElbTechnik SE,elbtechnik.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,8000,2025-06-25 00:21:49
+100048,RuhrLogistik SE,ruhrlogistik.de,COMPUTER_SOFTWARE,Germany,60,2026-02-19 06:35:40
+100049,OstRobotics GmbH & Co. KG,ostrobotics.at,FINANCIAL_SERVICES,Austria,900,2025-03-26 19:54:51
+100050,KraftRetail AG,kraftretail.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2025-05-02 08:15:45
+100051,MainLogistik GmbH,mainlogistik.ch,RETAIL,Germany,2500,2025-01-05 11:15:12
+100052,BrueckMedia AG,brueckmedia.ch,COMPUTER_SOFTWARE,Austria,2500,2026-04-23 15:54:51
+100053,ElbSoftware GmbH,elbsoftware.ch,RETAIL,Germany,2500,2026-02-08 13:32:50
+100054,TalSoftware AG,talsoftware.ch,HOSPITAL_HEALTH_CARE,Switzerland,400,2026-03-05 00:50:57
+100055,RheinEnergie SE,rheinenergie.de,RETAIL,Switzerland,60,2026-04-19 21:39:37
+100056,BrueckFinance GmbH & Co. KG,brueckfinance.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,400,2025-10-06 13:29:06
+100057,SaarData AG,saardata.at,RETAIL,Germany,400,2025-12-12 05:25:18
+100058,BlauSolutions GmbH,blausolutions.de,FINANCIAL_SERVICES,Switzerland,25,2025-03-26 20:33:45
+100059,BrueckSoftware AG,bruecksoftware.de,HOSPITAL_HEALTH_CARE,Germany,60,2025-03-11 12:28:26
+100060,IsarSolutions AG,isarsolutions.de,MACHINERY,Germany,400,2026-02-10 17:17:39
+100061,DonauFinance GmbH,donaufinance.com,RETAIL,Austria,900,2025-10-13 22:55:46
+100062,WestHealth AG,westhealth.de,MACHINERY,Germany,2500,2025-12-10 02:21:34
+100063,RuhrSoftware AG,ruhrsoftware.ch,MACHINERY,Germany,25,2026-04-10 08:30:12
+100064,HafenIndustrie AG,hafenindustrie.com,RETAIL,Germany,900,2026-01-21 06:34:35
+100065,OstCloud GmbH,ostcloud.de,RETAIL,Germany,400,2025-12-03 00:32:40
+100066,DonauData GmbH,donaudata.de,MACHINERY,Germany,25,2025-12-06 10:31:47
+100067,LichtData SE,lichtdata.de,HOSPITAL_HEALTH_CARE,Germany,2500,2025-07-04 11:56:42
+100068,FeldLogistik GmbH,feldlogistik.de,RETAIL,Germany,900,2025-01-19 16:57:15
+100069,DonauSolutions AG,donausolutions.ch,FINANCIAL_SERVICES,Germany,150,2025-09-23 02:05:56
+100070,RheinData GmbH,rheindata.com,MACHINERY,Germany,8000,2025-05-11 06:04:10
+100071,KraftIndustrie GmbH & Co. KG,kraftindustrie.de,RENEWABLES_ENVIRONMENT,Austria,60,2025-09-05 23:26:43
+100072,RuhrCloud AG,ruhrcloud.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,8000,2026-06-03 00:22:33
+100073,MoselRobotics SE,moselrobotics.de,COMPUTER_SOFTWARE,Germany,25,2025-05-23 00:01:49
+100074,WeserSolutions AG,wesersolutions.at,MACHINERY,Germany,2500,2025-02-05 09:21:15
+100075,MoselRetail SE,moselretail.de,RENEWABLES_ENVIRONMENT,Germany,2500,2025-06-20 19:12:01
+100076,InnMedia AG,innmedia.de,RENEWABLES_ENVIRONMENT,Austria,8000,2025-06-28 05:04:25
+100077,BergData AG,bergdata.de,COMPUTER_SOFTWARE,Germany,400,2026-02-06 18:47:59
+100078,TalSolutions GmbH,talsolutions.com,RENEWABLES_ENVIRONMENT,Germany,25,2025-12-05 02:50:39
+100079,BergHealth SE,berghealth.ch,RETAIL,Austria,400,2026-04-21 19:49:44
+100080,HansaLogistik GmbH & Co. KG,hansalogistik.de,LOGISTICS_AND_SUPPLY_CHAIN,Switzerland,8000,2026-02-08 05:43:10
+100081,OstLogistik SE,ostlogistik.de,MACHINERY,Germany,150,2025-09-04 16:14:37
+100082,TalEnergie GmbH & Co. KG,talenergie.de,COMPUTER_SOFTWARE,Germany,150,2026-05-10 02:38:56
+100083,NordFinance AG,nordfinance.ch,MACHINERY,Germany,150,2025-04-12 08:27:41
+100084,AlpenHealth GmbH & Co. KG,alpenhealth.com,RETAIL,Germany,150,2025-01-14 18:52:10
+100085,WeserData GmbH & Co. KG,weserdata.ch,RETAIL,Germany,25,2025-02-24 15:49:02
+100086,HansaTechnik AG,hansatechnik.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2026-03-15 11:19:51
+100087,KraftTechnik GmbH & Co. KG,krafttechnik.de,FINANCIAL_SERVICES,Austria,900,2025-10-08 08:37:38
+100088,DonauLogistik GmbH & Co. KG,donaulogistik.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2025-04-08 21:24:26
+100089,MoselEnergie GmbH & Co. KG,moselenergie.ch,FINANCIAL_SERVICES,Austria,8000,2026-07-24 09:31:57
+100090,SuedRobotics GmbH,suedrobotics.de,MACHINERY,Austria,60,2025-10-29 21:06:16
+100091,HafenSolutions AG,hafensolutions.de,RETAIL,Germany,900,2025-10-28 20:16:39
+100092,SaarRobotics AG,saarrobotics.de,COMPUTER_SOFTWARE,Germany,400,2025-04-11 21:24:24
+100093,SaarMedia GmbH,saarmedia.ch,FINANCIAL_SERVICES,Germany,150,2025-05-25 22:20:49
+100094,RuhrHealth AG,ruhrhealth.ch,RETAIL,Germany,150,2026-02-20 00:09:04
+100095,SuedTechnik AG,suedtechnik.de,RETAIL,Germany,900,2026-01-04 13:38:15
+100096,RuhrRobotics SE,ruhrrobotics.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,150,2026-08-06 12:48:05
+100097,RheinFinance GmbH,rheinfinance.de,FINANCIAL_SERVICES,Germany,25,2025-07-27 22:51:44
+100098,MoselMedia GmbH & Co. KG,moselmedia.ch,RENEWABLES_ENVIRONMENT,Austria,25,2025-07-25 17:44:00
+100099,HafenCloud SE,hafencloud.ch,RENEWABLES_ENVIRONMENT,Austria,8000,2025-08-11 07:43:37
+100100,BlauSystems SE,blausystems.at,MACHINERY,Germany,8000,2025-10-28 12:06:59
+100101,DonauHealth SE,donauhealth.com,RETAIL,Germany,900,2025-10-05 15:39:28
+100102,OstMedia GmbH & Co. KG,ostmedia.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,60,2026-04-09 21:17:40
+100103,HansaSolutions GmbH,hansasolutions.ch,LOGISTICS_AND_SUPPLY_CHAIN,Germany,8000,2025-06-09 23:01:48
+100104,SaarTechnik AG,saartechnik.de,COMPUTER_SOFTWARE,Germany,2500,2025-06-08 12:17:15
+100105,SternSolutions SE,sternsolutions.ch,FINANCIAL_SERVICES,Germany,2500,2026-04-24 22:14:51
+100106,MainCloud SE,maincloud.at,RENEWABLES_ENVIRONMENT,Switzerland,400,2026-03-24 07:26:40
+100107,FelsLogistik SE,felslogistik.ch,FINANCIAL_SERVICES,Germany,60,2025-02-18 02:33:54
+100108,NeckarTechnik AG,neckartechnik.at,FINANCIAL_SERVICES,Germany,25,2025-09-29 08:14:29
+100109,OstTechnik GmbH,osttechnik.at,FINANCIAL_SERVICES,Germany,8000,2025-03-19 10:32:22
+100110,WeserSystems AG,wesersystems.at,HOSPITAL_HEALTH_CARE,Austria,400,2026-03-04 08:20:20
+100111,NordTechnik GmbH,nordtechnik.ch,COMPUTER_SOFTWARE,Germany,60,2026-03-15 00:30:27
+100112,IsarCloud AG,isarcloud.at,COMPUTER_SOFTWARE,Germany,150,2026-05-06 20:34:11
+100113,MainMedia GmbH & Co. KG,mainmedia.com,RENEWABLES_ENVIRONMENT,Germany,900,2025-11-28 23:20:42
+100114,DonauTechnik GmbH,donautechnik.com,FINANCIAL_SERVICES,Germany,60,2025-10-09 03:59:01
+100115,WeserFinance GmbH & Co. KG,weserfinance.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2025-01-12 20:25:31
+100116,NeckarHealth GmbH,neckarhealth.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2025-10-27 02:33:45
+100117,HafenSystems AG,hafensystems.de,FINANCIAL_SERVICES,Germany,2500,2026-02-07 14:55:31
+100118,BrueckIndustrie GmbH & Co. KG,brueckindustrie.at,RENEWABLES_ENVIRONMENT,Germany,400,2025-07-07 08:39:49
+100119,ElbEnergie GmbH,elbenergie.ch,RENEWABLES_ENVIRONMENT,Germany,900,2025-03-27 02:47:13
+100120,WestSoftware GmbH,westsoftware.ch,MACHINERY,Switzerland,900,2025-02-27 11:30:44
+100121,TalRetail GmbH,talretail.de,HOSPITAL_HEALTH_CARE,Germany,900,2026-01-17 15:33:40
+100122,SpreeRetail GmbH,spreeretail.com,RENEWABLES_ENVIRONMENT,Switzerland,25,2026-04-05 19:05:01
+100123,MoselLogistik SE,mosellogistik.com,RETAIL,Germany,150,2026-04-23 15:21:42
+100124,AlpenFinance GmbH,alpenfinance.com,RENEWABLES_ENVIRONMENT,Germany,25,2025-04-19 22:19:20
+100125,DonauMedia SE,donaumedia.de,MACHINERY,Austria,400,2025-04-25 06:03:51
+100126,FelsSystems AG,felssystems.at,RETAIL,Austria,150,2026-02-05 23:36:24
+100127,HafenRobotics SE,hafenrobotics.ch,FINANCIAL_SERVICES,Germany,60,2026-02-16 08:46:35
+100128,DonauRetail GmbH & Co. KG,donauretail.ch,MACHINERY,Germany,25,2025-04-17 08:05:51
+100129,BlauEnergie SE,blauenergie.ch,MACHINERY,Germany,900,2026-04-27 15:27:49
+100130,SuedCloud AG,suedcloud.com,FINANCIAL_SERVICES,Germany,60,2025-07-02 02:17:41
+100131,BergRobotics GmbH & Co. KG,bergrobotics.com,MACHINERY,Switzerland,8000,2026-08-24 17:42:43
+100132,FelsData GmbH,felsdata.ch,HOSPITAL_HEALTH_CARE,Germany,900,2025-09-29 08:27:06
+100133,AlpenIndustrie SE,alpenindustrie.at,HOSPITAL_HEALTH_CARE,Germany,150,2026-01-07 18:11:58
+100134,FelsMedia SE,felsmedia.at,RENEWABLES_ENVIRONMENT,Germany,900,2025-06-28 21:57:43
+100135,AlpenData SE,alpendata.de,RETAIL,Germany,25,2025-04-02 23:01:38
+100136,BrueckSolutions GmbH & Co. KG,bruecksolutions.at,FINANCIAL_SERVICES,Austria,8000,2025-09-11 19:40:50
+100137,OstData AG,ostdata.com,COMPUTER_SOFTWARE,Germany,400,2025-10-11 12:49:22
+100138,HansaSoftware AG,hansasoftware.ch,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2025-02-09 10:17:14
+100139,OstRetail GmbH & Co. KG,ostretail.ch,COMPUTER_SOFTWARE,Germany,25,2025-06-17 10:32:33
+100140,WestIndustrie AG,westindustrie.com,MACHINERY,Germany,400,2026-02-12 08:56:06
+100141,FelsFinance GmbH & Co. KG,felsfinance.de,COMPUTER_SOFTWARE,Germany,400,2025-09-25 18:56:11
+100142,LichtCloud GmbH,lichtcloud.at,RENEWABLES_ENVIRONMENT,Germany,8000,2025-04-08 17:43:26
+100143,BrueckData SE,brueckdata.at,FINANCIAL_SERVICES,Germany,900,2025-11-26 03:25:13
+100144,ElbLogistik SE,elblogistik.com,COMPUTER_SOFTWARE,Germany,400,2026-05-06 05:04:46
+100145,TalMedia GmbH,talmedia.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,60,2026-08-02 22:33:47
+100146,SaarSoftware SE,saarsoftware.ch,HOSPITAL_HEALTH_CARE,Switzerland,150,2025-11-27 19:37:31
+100147,WaldTechnik SE,waldtechnik.at,MACHINERY,Switzerland,400,2026-05-31 19:33:51
+100148,SternData GmbH,sterndata.ch,HOSPITAL_HEALTH_CARE,Germany,400,2025-06-22 17:27:17
+100149,NeckarIndustrie GmbH & Co. KG,neckarindustrie.de,RETAIL,Germany,25,2025-08-09 18:03:53
+100150,ElbIndustrie GmbH,elbindustrie.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2025-01-07 00:27:32
+100151,SternMedia SE,sternmedia.ch,MACHINERY,Germany,8000,2025-11-26 11:54:18
+100152,FelsCloud GmbH,felscloud.at,RETAIL,Germany,25,2025-07-03 10:08:54
+100153,HarzData AG,harzdata.ch,FINANCIAL_SERVICES,Germany,400,2025-07-11 15:00:12
+100154,FeldIndustrie GmbH & Co. KG,feldindustrie.de,RENEWABLES_ENVIRONMENT,Germany,25,2026-02-09 06:07:33
+100155,AlpenLogistik GmbH & Co. KG,alpenlogistik.de,HOSPITAL_HEALTH_CARE,Switzerland,900,2025-03-14 03:45:36
+100156,BlauSoftware GmbH & Co. KG,blausoftware.at,RETAIL,Germany,60,2025-05-29 00:44:43
+100157,OstFinance SE,ostfinance.ch,FINANCIAL_SERVICES,Germany,900,2026-03-20 06:56:45
+100158,RuhrTechnik GmbH & Co. KG,ruhrtechnik.com,COMPUTER_SOFTWARE,Germany,2500,2026-07-24 19:52:25
+100159,SaarHealth GmbH,saarhealth.ch,RENEWABLES_ENVIRONMENT,Germany,2500,2025-07-14 15:39:29
+100160,BrueckLogistik SE,bruecklogistik.de,HOSPITAL_HEALTH_CARE,Austria,25,2026-01-09 02:07:00
+100161,SternHealth GmbH,sternhealth.at,FINANCIAL_SERVICES,Germany,8000,2026-08-15 22:03:45
+100162,HansaHealth AG,hansahealth.de,MACHINERY,Germany,60,2025-05-24 12:40:58
+100163,TalCloud GmbH,talcloud.ch,FINANCIAL_SERVICES,Germany,25,2025-03-27 17:54:25
+100164,HansaData GmbH,hansadata.com,RENEWABLES_ENVIRONMENT,Germany,400,2025-11-28 21:49:48
+100165,InnFinance SE,innfinance.de,FINANCIAL_SERVICES,Germany,150,2025-07-08 03:25:51
+100166,BergEnergie SE,bergenergie.at,RENEWABLES_ENVIRONMENT,Germany,2500,2025-10-07 05:46:27
+100167,MainData AG,maindata.ch,MACHINERY,Austria,2500,2026-08-08 16:04:13
+100168,RuhrRetail GmbH,ruhrretail.at,COMPUTER_SOFTWARE,Switzerland,150,2025-05-04 01:29:30
+100169,MoselIndustrie GmbH & Co. KG,moselindustrie.de,HOSPITAL_HEALTH_CARE,Germany,8000,2026-01-21 08:13:09
+100170,FeldTechnik AG,feldtechnik.de,RENEWABLES_ENVIRONMENT,Germany,150,2026-01-13 11:15:22
+100171,IsarMedia GmbH & Co. KG,isarmedia.com,FINANCIAL_SERVICES,Austria,400,2026-07-04 15:47:34
+100172,SuedIndustrie AG,suedindustrie.at,FINANCIAL_SERVICES,Germany,60,2026-08-25 18:27:52
+100173,WaldRetail GmbH,waldretail.de,MACHINERY,Germany,8000,2025-04-20 16:28:00
+100174,HansaRobotics GmbH & Co. KG,hansarobotics.ch,RENEWABLES_ENVIRONMENT,Germany,60,2025-11-20 15:01:43
+100175,WestRetail SE,westretail.com,RENEWABLES_ENVIRONMENT,Germany,25,2025-07-01 08:53:19
+100176,SuedSolutions SE,suedsolutions.com,FINANCIAL_SERVICES,Germany,400,2026-08-12 09:49:49
+100177,InnIndustrie SE,innindustrie.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,8000,2025-04-02 23:38:02
+100178,RheinSolutions SE,rheinsolutions.at,FINANCIAL_SERVICES,Germany,8000,2025-02-25 04:39:04
+100179,IsarFinance GmbH & Co. KG,isarfinance.ch,RENEWABLES_ENVIRONMENT,Germany,2500,2026-05-29 07:19:22
+100180,InnCloud GmbH,inncloud.at,HOSPITAL_HEALTH_CARE,Austria,8000,2025-05-16 14:45:09
+100181,NordRetail SE,nordretail.de,RENEWABLES_ENVIRONMENT,Germany,8000,2025-03-12 09:36:35
+100182,AlpenMedia GmbH & Co. KG,alpenmedia.com,HOSPITAL_HEALTH_CARE,Germany,400,2025-10-13 00:20:09
+100183,InnHealth SE,innhealth.ch,MACHINERY,Austria,150,2025-01-14 10:09:33
+100184,LichtHealth AG,lichthealth.com,RETAIL,Germany,2500,2025-07-23 16:46:57
+100185,SternSoftware SE,sternsoftware.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,900,2025-09-07 00:05:01
+100186,WestSolutions SE,westsolutions.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,150,2026-06-22 23:33:32
+100187,BrueckHealth AG,brueckhealth.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,25,2026-03-24 03:02:30
+100188,SuedEnergie AG,suedenergie.de,FINANCIAL_SERVICES,Germany,2500,2025-08-19 15:42:55
+100189,BlauData SE,blaudata.de,MACHINERY,Austria,60,2025-01-04 05:18:48
+100190,LichtTechnik SE,lichttechnik.com,RENEWABLES_ENVIRONMENT,Germany,8000,2026-07-30 06:33:07
+100191,MainTechnik GmbH,maintechnik.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,60,2025-01-20 08:52:48
+100192,NordCloud GmbH & Co. KG,nordcloud.at,COMPUTER_SOFTWARE,Switzerland,25,2025-02-11 01:25:16
+100193,SaarEnergie AG,saarenergie.com,RETAIL,Germany,2500,2026-06-26 09:21:57
+100194,HafenData GmbH,hafendata.de,RETAIL,Germany,60,2026-03-30 06:30:01
+100195,WestRobotics GmbH,westrobotics.at,HOSPITAL_HEALTH_CARE,Germany,60,2025-08-11 21:30:02
+100196,HansaRetail AG,hansaretail.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,900,2026-03-13 23:53:36
+100197,MoselFinance GmbH & Co. KG,moselfinance.com,RENEWABLES_ENVIRONMENT,Germany,8000,2025-01-28 04:25:31
+100198,MoselSoftware GmbH,moselsoftware.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,60,2025-06-20 06:26:58
+100199,WeserHealth GmbH & Co. KG,weserhealth.at,COMPUTER_SOFTWARE,Germany,150,2026-08-29 19:16:11
+100200,NordData GmbH,norddata.ch,FINANCIAL_SERVICES,Germany,2500,2025-07-14 11:50:17
+100201,KraftData SE,kraftdata.ch,RENEWABLES_ENVIRONMENT,Germany,8000,2025-10-31 01:54:14
+100202,SpreeHealth SE,spreehealth.de,COMPUTER_SOFTWARE,Switzerland,400,2025-09-21 06:07:29
+100203,RuhrFinance AG,ruhrfinance.com,RETAIL,Germany,60,2026-07-22 03:56:17
+100204,BlauRetail SE,blauretail.com,COMPUTER_SOFTWARE,Germany,25,2025-04-16 18:53:22
+100205,WestMedia GmbH,westmedia.de,LOGISTICS_AND_SUPPLY_CHAIN,Austria,60,2025-06-19 12:48:21
+100206,IsarTechnik GmbH & Co. KG,isartechnik.at,RETAIL,Austria,25,2025-01-11 21:39:42
+100207,WeserRetail SE,weserretail.de,RETAIL,Germany,900,2026-08-12 08:54:24
+100208,HafenTechnik GmbH,hafentechnik.com,RETAIL,Germany,25,2025-06-29 23:55:29
+100209,BergFinance GmbH,bergfinance.com,FINANCIAL_SERVICES,Germany,400,2026-07-17 23:51:15
+100210,MainSoftware GmbH,mainsoftware.at,RETAIL,Germany,900,2026-04-11 01:49:43
+100211,RheinRobotics AG,rheinrobotics.com,LOGISTICS_AND_SUPPLY_CHAIN,Switzerland,900,2025-09-11 03:22:38
+100212,DonauCloud GmbH & Co. KG,donaucloud.de,RENEWABLES_ENVIRONMENT,Germany,60,2026-06-09 15:19:54
+100213,InnSystems GmbH & Co. KG,innsystems.de,RENEWABLES_ENVIRONMENT,Germany,2500,2025-01-16 05:40:33
+100214,InnLogistik GmbH,innlogistik.de,MACHINERY,Germany,2500,2025-02-21 05:21:57
+100215,NordSystems GmbH,nordsystems.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,2500,2026-05-17 08:29:44
+100216,WeserSoftware SE,wesersoftware.at,RENEWABLES_ENVIRONMENT,Germany,25,2025-09-21 08:07:15
+100217,WaldEnergie SE,waldenergie.de,HOSPITAL_HEALTH_CARE,Germany,25,2025-12-11 08:10:02
+100218,WeserRobotics GmbH & Co. KG,weserrobotics.ch,FINANCIAL_SERVICES,Germany,8000,2025-02-19 02:06:27
+100219,RheinMedia SE,rheinmedia.at,RETAIL,Germany,150,2026-08-14 16:25:10
+100220,SuedRetail GmbH,suedretail.at,COMPUTER_SOFTWARE,Germany,150,2025-03-22 06:07:58
+100221,AlpenSystems GmbH & Co. KG,alpensystems.com,FINANCIAL_SERVICES,Switzerland,400,2025-11-05 13:58:18
+100222,WaldData SE,walddata.at,COMPUTER_SOFTWARE,Germany,900,2025-07-10 10:31:43
+100223,LichtRobotics AG,lichtrobotics.ch,FINANCIAL_SERVICES,Austria,8000,2025-11-13 06:15:33
+100224,RuhrIndustrie GmbH & Co. KG,ruhrindustrie.at,RENEWABLES_ENVIRONMENT,Austria,150,2026-08-06 21:25:25
+100225,OstSolutions SE,ostsolutions.de,COMPUTER_SOFTWARE,Germany,8000,2025-10-30 23:49:56
+100226,AlpenTechnik GmbH & Co. KG,alpentechnik.de,RENEWABLES_ENVIRONMENT,Germany,25,2025-12-29 08:09:54
+100227,FeldSolutions SE,feldsolutions.de,MACHINERY,Germany,400,2025-03-31 23:06:01
+100228,InnRetail GmbH & Co. KG,innretail.de,HOSPITAL_HEALTH_CARE,Germany,900,2026-05-26 08:40:50
+100229,BergSoftware AG,bergsoftware.ch,LOGISTICS_AND_SUPPLY_CHAIN,Austria,25,2026-03-16 01:21:50
+100230,SaarCloud GmbH & Co. KG,saarcloud.de,RENEWABLES_ENVIRONMENT,Austria,25,2026-03-31 12:54:03
+100231,NeckarCloud GmbH,neckarcloud.ch,HOSPITAL_HEALTH_CARE,Germany,150,2025-01-04 22:51:09
+100232,HarzSolutions GmbH,harzsolutions.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,8000,2025-04-11 17:51:23
+100233,LichtLogistik AG,lichtlogistik.de,FINANCIAL_SERVICES,Germany,900,2025-04-21 03:37:44
+100234,ElbSolutions GmbH & Co. KG,elbsolutions.com,RENEWABLES_ENVIRONMENT,Switzerland,8000,2026-03-25 03:55:35
+100235,HafenSoftware AG,hafensoftware.de,LOGISTICS_AND_SUPPLY_CHAIN,Switzerland,2500,2025-09-20 06:32:23
+100236,RheinHealth GmbH & Co. KG,rheinhealth.de,FINANCIAL_SERVICES,Germany,400,2026-01-21 00:29:58
+100237,BlauTechnik AG,blautechnik.com,RENEWABLES_ENVIRONMENT,Austria,2500,2026-05-30 02:47:52
+100238,KraftEnergie GmbH & Co. KG,kraftenergie.at,COMPUTER_SOFTWARE,Germany,25,2026-02-07 18:45:43
+100239,MainRobotics GmbH & Co. KG,mainrobotics.de,MACHINERY,Germany,25,2025-06-24 18:35:23
+100240,SternSystems SE,sternsystems.de,HOSPITAL_HEALTH_CARE,Germany,2500,2025-06-02 01:28:33
+100241,WaldFinance GmbH,waldfinance.com,FINANCIAL_SERVICES,Germany,2500,2025-10-09 01:05:51
+100242,SternLogistik GmbH,sternlogistik.at,RENEWABLES_ENVIRONMENT,Germany,60,2025-11-19 04:15:05
+100243,BrueckTechnik SE,bruecktechnik.ch,RETAIL,Germany,2500,2026-01-03 20:26:18
+100244,TalLogistik AG,tallogistik.com,RENEWABLES_ENVIRONMENT,Switzerland,8000,2026-06-11 17:13:15
+100245,BlauCloud GmbH,blaucloud.com,FINANCIAL_SERVICES,Germany,2500,2026-01-02 02:03:54
+100246,HansaIndustrie AG,hansaindustrie.com,COMPUTER_SOFTWARE,Austria,150,2025-09-08 10:20:33
+100247,BergSolutions AG,bergsolutions.de,COMPUTER_SOFTWARE,Germany,25,2025-08-16 03:06:47
+100248,OstIndustrie AG,ostindustrie.de,RENEWABLES_ENVIRONMENT,Germany,8000,2025-09-16 12:15:00
+100249,ElbRobotics SE,elbrobotics.at,RENEWABLES_ENVIRONMENT,Switzerland,25,2026-01-31 17:19:52
+100250,NeckarEnergie GmbH & Co. KG,neckarenergie.at,RENEWABLES_ENVIRONMENT,Germany,8000,2026-06-11 13:36:12
+100251,OstEnergie GmbH & Co. KG,ostenergie.de,HOSPITAL_HEALTH_CARE,Germany,60,2025-10-03 12:22:11
+100252,BlauLogistik GmbH & Co. KG,blaulogistik.de,RENEWABLES_ENVIRONMENT,Germany,400,2025-05-31 10:31:36
+100253,AlpenEnergie SE,alpenenergie.ch,FINANCIAL_SERVICES,Switzerland,60,2025-05-24 15:41:50
+100254,FeldRobotics SE,feldrobotics.de,RENEWABLES_ENVIRONMENT,Switzerland,8000,2026-03-29 19:56:09
+100255,LichtIndustrie SE,lichtindustrie.com,HOSPITAL_HEALTH_CARE,Germany,2500,2026-05-11 15:46:25
+100256,SpreeRobotics GmbH,spreerobotics.com,HOSPITAL_HEALTH_CARE,Germany,8000,2025-03-05 21:41:27
+100257,RheinIndustrie SE,rheinindustrie.at,HOSPITAL_HEALTH_CARE,Austria,8000,2025-02-10 09:37:45
+100258,NeckarSolutions GmbH,neckarsolutions.ch,RENEWABLES_ENVIRONMENT,Germany,400,2025-12-27 19:42:34
+100259,SpreeFinance GmbH & Co. KG,spreefinance.at,MACHINERY,Switzerland,150,2025-03-30 17:27:06
+100260,FelsHealth AG,felshealth.at,HOSPITAL_HEALTH_CARE,Germany,60,2026-05-16 13:42:28
+100261,WestFinance GmbH & Co. KG,westfinance.at,RENEWABLES_ENVIRONMENT,Germany,150,2025-07-08 08:57:19
+100262,KraftFinance SE,kraftfinance.de,HOSPITAL_HEALTH_CARE,Germany,8000,2025-03-29 07:55:34
+100263,NordSolutions AG,nordsolutions.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,8000,2026-07-14 00:41:52
+100264,NeckarMedia AG,neckarmedia.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,900,2025-04-11 11:27:58
+100265,InnRobotics GmbH,innrobotics.de,RETAIL,Germany,60,2025-06-22 19:48:07
+100266,IsarSystems AG,isarsystems.de,RETAIL,Austria,900,2025-04-04 05:50:23
+100267,RheinTechnik AG,rheintechnik.com,FINANCIAL_SERVICES,Switzerland,400,2025-03-12 02:27:33
+100268,MainSolutions SE,mainsolutions.ch,FINANCIAL_SERVICES,Germany,400,2025-01-13 20:05:03
+100269,DonauIndustrie AG,donauindustrie.ch,RENEWABLES_ENVIRONMENT,Germany,900,2025-02-03 15:00:01
+100270,HarzSoftware GmbH,harzsoftware.ch,MACHINERY,Germany,60,2025-04-17 00:10:37
+100271,HarzIndustrie GmbH & Co. KG,harzindustrie.at,COMPUTER_SOFTWARE,Germany,2500,2025-02-02 09:40:04
+100272,WaldSolutions SE,waldsolutions.de,COMPUTER_SOFTWARE,Germany,400,2025-12-25 19:46:59
+100273,LichtSolutions AG,lichtsolutions.de,COMPUTER_SOFTWARE,Germany,400,2026-02-18 04:38:57
+100274,HarzCloud AG,harzcloud.at,RENEWABLES_ENVIRONMENT,Austria,2500,2025-08-27 22:24:30
+100275,WeserEnergie SE,weserenergie.ch,COMPUTER_SOFTWARE,Germany,2500,2025-07-13 00:29:39
+100276,HafenMedia GmbH,hafenmedia.de,RENEWABLES_ENVIRONMENT,Austria,8000,2025-11-03 05:56:17
+100277,HafenFinance AG,hafenfinance.de,RETAIL,Germany,2500,2026-06-16 03:04:19
+100278,WestTechnik GmbH & Co. KG,westtechnik.de,LOGISTICS_AND_SUPPLY_CHAIN,Switzerland,2500,2026-06-01 15:17:07
+100279,WaldRobotics GmbH,waldrobotics.ch,FINANCIAL_SERVICES,Austria,400,2025-01-27 09:20:40
+100280,BergIndustrie GmbH & Co. KG,bergindustrie.de,LOGISTICS_AND_SUPPLY_CHAIN,Germany,400,2025-04-21 04:04:07
+100281,HansaCloud SE,hansacloud.de,RETAIL,Austria,8000,2025-05-24 16:53:57
+100282,LichtSystems GmbH,lichtsystems.de,RETAIL,Austria,60,2025-06-01 09:04:41
+100283,SuedData AG,sueddata.de,MACHINERY,Germany,900,2025-12-13 17:43:02
+100284,RheinCloud GmbH & Co. KG,rheincloud.com,COMPUTER_SOFTWARE,Germany,8000,2025-09-10 16:06:39
+100285,SternTechnik SE,sterntechnik.at,MACHINERY,Germany,60,2025-01-30 21:32:02
+100286,HarzRobotics GmbH & Co. KG,harzrobotics.ch,RENEWABLES_ENVIRONMENT,Germany,25,2025-08-15 18:48:38
+100287,WeserTechnik SE,wesertechnik.de,HOSPITAL_HEALTH_CARE,Germany,8000,2025-11-14 22:01:58
+100288,HafenRetail AG,hafenretail.at,RETAIL,Austria,8000,2025-03-03 17:09:22
+100289,BergMedia GmbH & Co. KG,bergmedia.de,HOSPITAL_HEALTH_CARE,Germany,25,2026-05-21 21:49:27
+100290,KraftSystems AG,kraftsystems.de,RENEWABLES_ENVIRONMENT,Switzerland,25,2025-02-01 12:58:49
+100291,KraftRobotics GmbH,kraftrobotics.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,150,2026-07-16 09:05:46
+100292,KraftMedia GmbH & Co. KG,kraftmedia.com,FINANCIAL_SERVICES,Germany,900,2025-03-02 03:52:48
+100293,BrueckSystems GmbH & Co. KG,bruecksystems.ch,FINANCIAL_SERVICES,Germany,2500,2026-05-28 01:11:59
+100294,HarzFinance GmbH & Co. KG,harzfinance.de,RENEWABLES_ENVIRONMENT,Germany,2500,2026-07-02 21:51:03
+100295,MainEnergie SE,mainenergie.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,60,2026-08-18 14:23:08
+100296,ElbRetail GmbH,elbretail.at,RENEWABLES_ENVIRONMENT,Germany,150,2026-05-02 19:54:46
+100297,KraftSolutions GmbH & Co. KG,kraftsolutions.de,MACHINERY,Germany,900,2026-04-19 03:25:43
+100298,FelsRetail GmbH & Co. KG,felsretail.de,HOSPITAL_HEALTH_CARE,Germany,900,2026-01-25 23:41:46
+100299,SpreeIndustrie AG,spreeindustrie.de,RENEWABLES_ENVIRONMENT,Austria,900,2026-03-25 14:22:40
+100300,FeldEnergie SE,feldenergie.com,RENEWABLES_ENVIRONMENT,Austria,25,2026-05-17 09:58:02
+100301,IsarEnergie GmbH,isarenergie.de,MACHINERY,Germany,400,2025-07-16 02:40:45
+100302,SuedFinance SE,suedfinance.at,RENEWABLES_ENVIRONMENT,Switzerland,400,2026-08-10 23:00:54
+100303,NeckarFinance AG,neckarfinance.ch,RENEWABLES_ENVIRONMENT,Germany,8000,2026-05-22 01:19:11
+100304,SternFinance GmbH,sternfinance.de,HOSPITAL_HEALTH_CARE,Germany,400,2026-04-21 23:19:12
+100305,WestSystems GmbH & Co. KG,westsystems.de,RETAIL,Germany,150,2026-02-21 12:03:31
+100306,RuhrData GmbH & Co. KG,ruhrdata.de,LOGISTICS_AND_SUPPLY_CHAIN,Austria,900,2025-06-01 15:04:03
+100307,OstSystems GmbH,ostsystems.com,HOSPITAL_HEALTH_CARE,Germany,60,2025-02-07 02:35:15
+100308,BrueckEnergie AG,brueckenergie.de,RETAIL,Switzerland,25,2025-09-21 04:57:23
+100309,SuedHealth GmbH & Co. KG,suedhealth.ch,RETAIL,Germany,400,2025-04-11 05:28:43
+100310,AlpenRetail AG,alpenretail.de,FINANCIAL_SERVICES,Germany,150,2026-01-02 17:39:29
+100311,SuedMedia GmbH & Co. KG,suedmedia.de,HOSPITAL_HEALTH_CARE,Germany,60,2025-07-25 07:26:06
+100312,FelsSolutions SE,felssolutions.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,150,2025-11-03 13:37:30
+100313,SpreeData AG,spreedata.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,150,2026-03-24 07:48:33
+100314,RuhrSystems GmbH & Co. KG,ruhrsystems.com,LOGISTICS_AND_SUPPLY_CHAIN,Germany,150,2025-09-21 09:00:28
+100315,BlauMedia SE,blaumedia.com,COMPUTER_SOFTWARE,Germany,150,2025-04-22 00:43:02
+100316,TalFinance AG,talfinance.at,LOGISTICS_AND_SUPPLY_CHAIN,Switzerland,900,2025-05-23 21:58:46
+100317,BergLogistik GmbH & Co. KG,berglogistik.de,FINANCIAL_SERVICES,Switzerland,150,2026-04-27 04:48:37
+100318,InnSoftware AG,innsoftware.at,MACHINERY,Germany,8000,2026-02-12 04:50:35
+100319,HafenHealth GmbH,hafenhealth.ch,LOGISTICS_AND_SUPPLY_CHAIN,Germany,8000,2026-06-03 11:50:56
+100320,KRAFTDATA,kraftdata.ch,RENEWABLES_ENVIRONMENT,Germany,8000,2026-02-06 01:54:14
+100321,MAINTECHNIK,maintechnik.at,LOGISTICS_AND_SUPPLY_CHAIN,Germany,60,2025-06-24 08:52:48
+100322,WaldRetail GmbH,app.waldretail.de,MACHINERY,Germany,8000,2025-06-28 16:28:00
+100323,SternTechnik SE,app.sterntechnik.at,MACHINERY,Germany,60,2025-05-04 21:32:02
+100324,BrueckHealth AG,,LOGISTICS_AND_SUPPLY_CHAIN,Germany,25,2026-07-11 03:02:30
+100325,MoselRobotics SE,,COMPUTER_SOFTWARE,Germany,25,2025-12-01 00:01:49
+100326,DonauHealth SE,app.donauhealth.com,RETAIL,Germany,900,2026-03-24 15:39:28
+100327,BRUECKENERGIE,brueckenergie.de,RETAIL,Switzerland,25,2025-12-30 04:57:23
+100328,FelsHealth AG,,HOSPITAL_HEALTH_CARE,Germany,60,2026-09-25 13:42:28
+100329,WestMedia GmbH,,LOGISTICS_AND_SUPPLY_CHAIN,Austria,60,2025-08-02 12:48:21
+100330,SPREEROBOTICS,spreerobotics.com,HOSPITAL_HEALTH_CARE,Germany,8000,2025-08-13 21:41:27
+100331,SaarRetail GmbH & Co. KG,,RETAIL,Switzerland,60,2026-07-27 03:49:19
+100332,ISARHEALTH,isarhealth.de,HOSPITAL_HEALTH_CARE,Germany,400,2026-10-13 02:59:18
+100333,TalHealth AG,www.talhealth.at,MACHINERY,Germany,60,2026-06-22 10:05:13
+100334,RheinData GmbH,,MACHINERY,Germany,8000,2025-09-16 06:04:10
+100335,FeldTechnik AG,,RENEWABLES_ENVIRONMENT,Germany,150,2026-02-01 11:15:22

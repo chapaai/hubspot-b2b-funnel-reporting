@@ -1,0 +1,9 @@
+channel,leads,mqls,sqls,opportunities,customers,lead_to_mql,mql_to_sql,sql_to_opp,opp_to_customer,lead_to_customer
+google_ads,775,312,136,77,18,0.403,0.436,0.566,0.234,0.023
+organic_search,658,194,61,31,9,0.295,0.314,0.508,0.29,0.014
+linkedin_ads,628,297,125,70,17,0.473,0.421,0.56,0.243,0.027
+direct_traffic,418,113,34,16,5,0.27,0.301,0.471,0.313,0.012
+referrals,245,101,34,19,7,0.412,0.337,0.559,0.368,0.029
+meta_ads,188,42,21,11,3,0.223,0.5,0.524,0.273,0.016
+offline,164,78,23,18,3,0.476,0.295,0.783,0.167,0.018
+email_marketing,150,31,10,2,2,0.207,0.323,0.2,1.0,0.013
